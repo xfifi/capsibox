@@ -26,7 +26,7 @@ Affichage + interactions :
 - écran TFT 2.8" tactile spi 
 
 Geekerie :
-- serveur http pour grstion depuis un navigateur
+- serveur http pour gestion depuis un navigateur
 - wifi
 
 Gestion éclairage des leds DOB4075 20W (photopériode)
