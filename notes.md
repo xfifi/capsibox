@@ -11,7 +11,7 @@ Mesure température environnement :
 RTC sauvegardé :
 - DS3231 / DS1307
 
-Gestion de l'eau bac de culture :
+Gestion de l'eau bac de culture (en cas de petite absence) :
 - pompe
 - niveau d'eau bac
 - niveau réserve
