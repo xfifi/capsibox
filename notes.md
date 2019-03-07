@@ -24,6 +24,9 @@ Mesure éventuelle de certains godets :
 
 Affichage + interactions :
 - écran TFT 2.8" tactile spi 
+  - Que doit-on afficher ? :
+    - cycle lunaire
+    
 
 Geekerie :
 - serveur http pour gestion depuis un navigateur
