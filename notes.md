@@ -2,6 +2,9 @@ Température des règles aluminium maçon (rampe leds) :
 - sonde epcos 100k + pate thermique (attention générer une table de valeurs)
 - pwm des ventilos 12v
 
+Gestion ventilation :
+- pwm ventilo 12v
+
 Mesure température / humidité de la poupo :
 - BME280 en i2c
 
