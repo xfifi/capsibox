@@ -40,6 +40,7 @@ Geekerie :
 - serveur http pour gestion depuis un navigateur
 - wifi
 - communication bluetooth avec sondes wireless
+- relevé simple météo locale
 
 Gestion éclairage des leds DOB4075 20W (photopériode)
 - relais
