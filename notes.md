@@ -1,6 +1,9 @@
+MCU :
+- STM32F103RET6
+
 Température des règles aluminium maçon (rampe leds) :
 - sonde epcos 100k + pate thermique (attention générer une table de valeurs)
-- pwm des ventilos 12v
+- pwm des ventilos 12v (25khz)
 
 Gestion ventilation :
 - pwm ventilo 12v
